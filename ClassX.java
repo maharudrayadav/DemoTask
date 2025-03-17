@@ -1,5 +1,5 @@
 package org.example;
 
-public class ClassA {
+public class ClassX {
     protected int i=10;
 }

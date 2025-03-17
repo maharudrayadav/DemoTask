@@ -1,6 +1,6 @@
 package org.example;
 
- class ClassB extends ClassA{
+ class ClassY extends ClassX{
 
      int i=10;
 
